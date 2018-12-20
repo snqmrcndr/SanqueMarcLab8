@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "325774768566",
+    "firebase_url": "https://sanquemarclab8.firebaseio.com",
+    "project_id": "sanquemarclab8",
+    "storage_bucket": "sanquemarclab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325774768566:android:9cae7ab69b7e94d3",
+        "android_client_info": {
+          "package_name": "com.sanque.marc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325774768566-v34roho8l9kehc1tfus85rc62o3uln9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanque.marc",
+            "certificate_hash": "0e485c53fa00618017918d75f97136d2033fde5e"
+          }
+        },
+        {
+          "client_id": "325774768566-s7ud904jat48s72dn5mie1a4dbkuf5es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8uQuJ6aZ07VdLBV7scDR-vi1hAFuE-wU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325774768566-s7ud904jat48s72dn5mie1a4dbkuf5es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
